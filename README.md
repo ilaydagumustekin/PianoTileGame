@@ -13,8 +13,8 @@ A rhythm-based iOS game inspired by Piano Tiles, developed with SwiftUI. The gam
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/gameplay.png" width="250" alt="Gameplay">
-  <img src="Screenshots/gameover.png" width="250" alt="Game Over">
+  <img src="./Ekran%20Resmi%202026-07-16%2022.47.15.png" alt="Gameplay" width="250"/>
+  <img src="./Ekran%20Resmi%202026-07-16%2022.46.24.png" alt="Game Over" width="250"/>
 </p>
 
 ## Requirements
